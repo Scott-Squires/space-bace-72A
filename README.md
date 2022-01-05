@@ -1,6 +1,6 @@
 # Space-Base-72A
 <p align="center">
-  <img src="./GameIcon.png" width="50%">
+  <img src="./GameIcon.png" width="20%" style="image-rendering: crisp-edges;">
  </p>
 Game jam with four friends. A side-scrolling platformer. Coded in Lua using the Love2D framework.
 nymphofthevales: I worked mostly on the menu screens and artwork for this project.
